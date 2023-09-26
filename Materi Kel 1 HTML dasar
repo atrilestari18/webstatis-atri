@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title> Zona Perpustakaan </title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style> h1 {text-align:center}
+    img {float:left}
+    table, th, td {border: 1px black;border-radius: 10px;}
+    #DENAHGEDUNG# {
+    background-color: aqua;
+    color: black;
+    padding: 40px;
+    text-align: center;
+    }
+    .section {
+        background-color: aqua;
+        color: black;
+        border: 20px solid black;
+        margin: 20px;
+        padding: 20px;
+    }
+    </style>
+</head>
+<body>
+<h1 style="background-color: blue; font-family: poppin; color: white"> PERPUSTAKAAN FREEDOM INSTITUTE </h1>
+<h2> PROFIL PERPUSTAKAAN </h2>
+<p style="text-align:justify; font-size: 20px;"> <img src="images/perpusfreedom.jpeg" width="400" height="290" style="margin-right: 10px;">
+    Perpustakaan Freedom berdiri di bawah naungan Freedom Institute dan pada awal tahun 2002 resmi dibuka untuk umum. Keberadaan perpustakaan
+    sebelumnya hanya digunakan untuk kepentingan yayasan, jumlah bukunya pun tak banyak sekitar 4.000 buku saja milik Rizal Malarangeng 
+    yang juga pemilik perpustakaan. Saat ini koleksi bukunya terbilang lengkap, mulai dari novel, sastra, hingga filsafat bisa kamu temui.
+    Tak hanya berbahasa Indonesia yang berbahasa Inggris juga tersedia. Perpustakaan yang sudah ada sejak tahun 2001 ini memiliki koleksi
+    buku lengkap buat anak sekolah hingga mahasiswa. Buku-buku yang ada pun selalu diperbaharui setiap tahunnya namun tidak menghilangkan
+    buku-buku kuno yang bersejarah. <br> Beberapa buku yang ada di perpustakaan ini yaitu buku politik, sejarah, sastra, sains, filsafat
+    dan masih banyak lagi. Namun buku-buku mengenai desain belum tersedia di sini. Awalnya pada tahun 2001, Freedom Instititute hanya 
+    memiliki 4000 buku yang dimiliki oleh pemilik perpustakaan ini, Rizal Mallarangeng. Sekarang, di perpustakaan sudah ada sekitar 14.000
+    buku. <br> Pengunjung yang datang pun banyak, namun memang masih banyak orang yang belum tahu keberadaan Freedom Institute di dalam 
+    Wisma Bakrie. Dalam sehari, pengunjung yang datang mencapai 40 orang. Untuk jadi member, tidak dipungut biaya. Traveler hanya perlu 
+    menunjukkan KTP untuk kelengkapan data, dan hari itu juga kartu anggota dapat dibawa pulang.</p>
+
+<!--Block Inline-->    
+<address> Website Perpustakaan: <a href="https://perpustakaanfreedom.com/">Perpus Freedom Institute </a> </address>
+<br>
+<hr>
+
+<!--List-->
+<h2> Jam Layanan Perpustakaan </h2>
+<dl> 
+    <dt><b> Senin-Jum'at </b></dt>
+    <dd> Buka 09.00 - 17.00 </dd>
+    <dd> Istirahat 11.00 - 13.00 </dd>
+</dl>
+<h2> Layanan di Perpustakaan Freedom Intstitute </h2>
+<ol> 
+    <li> Layanan Referensi </li>
+    <li> Layanan Fotokopi </li>
+    <li> Layanan Multimedia</li>
+</ol>
+
+<ul> 
+    <li> Buku Teks </li>
+    <li> Majalah </li>
+    <li> Surat Kabar </li>
+    <li> Buku Khusus Terbitan </li>
+</ul>
+<hr>
+
+<!--Table-->
+<h2 style="text-align: center;"> FASILITAS PERPUSTAKAAN </h2>
+<table> 
+    <tr> 
+        <th> Jenis Fasilitas </th>
+        <th> Keterangan </th>
+    </tr>
+    <tr> 
+        <td> Meja & Kursi Partisi </td>
+        <td> jika kamu sedang butuhkan privasi, terdapat meja partisi lengkap dengan stop kontak untuk mengisi ulang baterai ponsel atau 
+            laptop. Cocok untuk mengerjakan tugas dengan tenang. </td>
+    </tr>
+    <tr> 
+        <td> Sofa Empuk </td>
+        <td> tersedia pula sofa empuk yang bisa kamu gunakan saat membaca buku. Sofa hitam ini hanya tersedia dua, di sisi pojok ruangan
+            dan satu lagi dekat dengan tembok tengah perpustakaan. Jika ingin fokus membaca buku dengan nyaman, sofa ini bisa pilihan untuk 
+            kamu.</td>
+    </tr>
+</table>
+
+<!--ID-->
+<h2 id="#DENAHGEDUNG#" style="text-align: center;"> DENAH GEDUNG </h2>
+
+<!--CLASSES-->
+<div class="section"> 
+
+</div>
+
+
+</body>
+</html>
